@@ -1,3 +1,5 @@
+#! /usr/bin/env python3
+
 import pyttsx3
 import threading
 from time import sleep
